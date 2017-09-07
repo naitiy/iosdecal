@@ -9,7 +9,7 @@ Monday, September 11 at 6:30pm
 #### files to submit
 - SwiftPlayground.playground (folder)
 
-To submit, add your playground folder to a private repository (if you don't have free private repositories, get them here with the [github student developer pack](https://education.github.com/pack)). If you're new to GitHub, you can find detailed instructions on how to add your assignment to a repo [here](iosdecal.com).
+To submit, add your playground folder to a private repository (if you don't have free private repositories, get them here with the [github student developer pack](https://education.github.com/pack)). If you're new to GitHub, you can find detailed instructions on how to add your assignment to a repo [here](http://iosdecal.com/other_files/submission_instructions.pdf).
 
 Using your private repository, submit your assignment to [Gradescope](https://gradescope.com/courses/9817/assignments/35309/).
 
